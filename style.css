@@ -54,3 +54,11 @@ a {
 .content p {
   margin-top: -20px;
 }
+li:hover .email {
+  display: none;
+}
+li:hover .comment::before {
+  content: 'alefikri24@gmail.com';
+  display: flex;
+  justify-content: center;
+}
