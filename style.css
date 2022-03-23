@@ -20,6 +20,9 @@ body {
   border-radius: 50%;
   height: 200px;
 }
+.headerr p {
+  color: white;
+}
 
 .content {
   text-align: center;
